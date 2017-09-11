@@ -1,0 +1,27 @@
+{
+  "name": "repos-me",
+  "version": "0.0.1",
+  "description": "a HTTP server that relay info about my repository from GitHub API",
+  "main": "repos-me.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "GitHub",
+    "API",
+    "js",
+    "HTTP",
+    "nodejs",
+    "server"
+  ],
+  "author": "Chistian Pujol",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^1.7.3"
+  },
+  "devDependencies": {
+    "eslint": "^4.6.1",
+    "eslint-config-airbnb-base": "^12.0.0",
+    "eslint-plugin-import": "^2.7.0"
+  }
+}
