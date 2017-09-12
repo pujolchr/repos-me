@@ -31,5 +31,6 @@
   "bugs": {
     "url": "https://github.com/pujolchr/repos-me/issues"
   },
-  "homepage": "https://github.com/pujolchr/repos-me#readme"
+  "homepage": "https://github.com/pujolchr/repos-me#readme",
+  "scripts": { "start": "node repos-me.js 8080" }
 }
